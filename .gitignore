@@ -6,6 +6,9 @@
 *.exe
 *.o
 *.so
+*.swp
+*.swo
+*~
 
 # Packages #
 ############
@@ -23,6 +26,7 @@
 # Logs and databases #
 ######################
 *.log
+/tmp/*
 *.sql
 *.sqlite
 
@@ -35,3 +39,10 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+*.scssc
+
+# Sensitive Information #
+#########################
+.env
+tags
+

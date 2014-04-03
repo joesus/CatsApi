@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="2060745666">
+    <data-source source="LOCAL" name="Rails Dogs: development" uuid="61446934-b911-4a86-aa0b-7ab03455c2d0">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/Dogs_development</jdbc-url>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails Dogs: test" uuid="ca338f21-4682-4d52-b646-a8a0eae47297">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/Dogs_test</jdbc-url>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails Dogs: cucumber" uuid="8ae82e0c-f0ef-42c0-9792-c4c383d3f0c5">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/Dogs_test</jdbc-url>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails Dogs: production" uuid="436c93da-74de-4c91-9cab-c66b300a3903">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1/Dogs_production</jdbc-url>
+      <user-name>joesusnick</user-name>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
